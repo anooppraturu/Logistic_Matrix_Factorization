@@ -1,4 +1,4 @@
-##Logistic Matrix Factorization
+## Logistic Matrix Factorization
 Pyhton implementation of logistic matrix factorization
 (https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004760,
 https://web.stanford.edu/~rezab/nips2014workshop/submits/logmat.pdf)
